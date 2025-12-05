@@ -670,6 +670,7 @@ minecraft:spawn_egg:6424, Invocar Vampire
 minecraft:spawn_egg:6425, Invocar Lilith
 minecraft:spawn_egg:6426, Invocar Winged Monkey
 minecraft:spawn_egg:6427, Invocar Reflection
+minecraft:spawn_egg:176, Invocar entity.Rock.name
 minecraft:experience_bottle, Frasco de Encantamentos
 minecraft:fire_charge, Bola de Fogo
 minecraft:writable_book, Pena e Livro
@@ -3292,43 +3293,43 @@ BiblioCraft:BiblioSeats:3, Assento de Madeira da Selva
 BiblioCraft:BiblioSeats:4, Assento de Acácia
 BiblioCraft:BiblioSeats:5, Assento de Carvalho Escuro
 BiblioCraft:BiblioSeats:6, Assento Encaixilhado
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:nitorGas, Nitor Gas
 ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
 ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:gaseousLight, Gaseous Light
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:gaseousShadow, Gaseous Shadow
+ThaumicTinkerer:infusedFarmland, Infused Farmland
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:spawner, Tablet of Necromancy
 ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
 ThaumicTinkerer:magnet:0, Kinetic Attractor
 ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:gaseousShadow, Gaseous Shadow
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:infusedFarmland, Infused Farmland
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
-ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:infusedGrainBlock, Imbued Grain
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:gaseousLight, Gaseous Light
-ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:nitorGas, Nitor Gas
 ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
 ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
+ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:infusedGrainBlock, Imbued Grain
+ThaumicTinkerer:funnel, Essentia Funnel
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -3402,7 +3403,7 @@ BuildCraft|Core:pathMarkerBlock, Marcador de Caminhos
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, DEQ (Dispositivo Estranhamente Quebrado)
+ExtraUtilities:endConstructor:0, DEQ (Dispositivo Extremamente Quente)
 ExtraUtilities:endConstructor:2, Cristal de Ender-Fluxo
 ExtraUtilities:endMarker, Marcador do Fim
 ExtraUtilities:curtains, Curtinas de Blackout
@@ -5684,6 +5685,448 @@ chisel:grimstone:11, Grimstone
 chisel:grimstone:12, Grimstone
 chisel:grimstone:13, Grimstone
 chisel:grimstone:14, Grimstone
+chisel:hardened_clay:0, Terracotta
+chisel:hardened_clay:1, Terracotta
+chisel:hardened_clay:2, Terracotta
+chisel:hardened_clay:3, Terracotta
+chisel:hardened_clay:4, Terracotta
+chisel:hardened_clay:5, Terracotta
+chisel:hardened_clay:6, Terracotta
+chisel:hardened_clay:7, Terracotta
+chisel:hardened_clay:8, Terracotta
+chisel:hardened_clay:9, Terracotta
+chisel:hardened_clay:10, Terracotta
+chisel:hardened_clay:11, Terracotta
+chisel:hardened_clay:12, Terracotta
+chisel:hardened_clay:13, Terracotta
+chisel:hardened_clay:14, Terracotta
+chisel:hardened_clay:15, Terracotta
+chisel:hardened_clay2:0, Terracotta
+chisel:hardened_clay2:1, Terracotta
+chisel:hardened_clay2:2, Terracotta
+chisel:hardened_clay2:3, Terracotta
+chisel:hardened_clay2:4, Terracotta
+chisel:hardened_clay2:5, Terracotta
+chisel:hardened_clay2:6, Terracotta
+chisel:hardened_clay2:7, Terracotta
+chisel:hardened_clay2:8, Terracotta
+chisel:hardened_clay2:9, Terracotta
+chisel:hardened_clay_white:0, White Terracotta
+chisel:hardened_clay_white:1, White Terracotta
+chisel:hardened_clay_white:2, White Terracotta
+chisel:hardened_clay_white:3, White Terracotta
+chisel:hardened_clay_white:4, White Terracotta
+chisel:hardened_clay_white:5, White Terracotta
+chisel:hardened_clay_white:6, White Terracotta
+chisel:hardened_clay_white:7, White Terracotta
+chisel:hardened_clay_white:8, White Terracotta
+chisel:hardened_clay_white:9, White Terracotta
+chisel:hardened_clay_white:10, White Terracotta
+chisel:hardened_clay_white:11, White Terracotta
+chisel:hardened_clay_white:12, White Terracotta
+chisel:hardened_clay_white:13, White Terracotta
+chisel:hardened_clay_white:14, White Terracotta
+chisel:hardened_clay_white:15, White Terracotta
+chisel:hardened_clay_white2:0, White Terracotta
+chisel:hardened_clay_white2:1, White Terracotta
+chisel:hardened_clay_white2:2, White Terracotta
+chisel:hardened_clay_white2:3, White Terracotta
+chisel:hardened_clay_white2:4, White Terracotta
+chisel:hardened_clay_white2:5, White Terracotta
+chisel:hardened_clay_white2:6, White Terracotta
+chisel:hardened_clay_white2:7, White Terracotta
+chisel:hardened_clay_white2:8, White Terracotta
+chisel:hardened_clay_white2:9, White Terracotta
+chisel:hardened_clay_orange:0, Orange Terracotta
+chisel:hardened_clay_orange:1, Orange Terracotta
+chisel:hardened_clay_orange:2, Orange Terracotta
+chisel:hardened_clay_orange:3, Orange Terracotta
+chisel:hardened_clay_orange:4, Orange Terracotta
+chisel:hardened_clay_orange:5, Orange Terracotta
+chisel:hardened_clay_orange:6, Orange Terracotta
+chisel:hardened_clay_orange:7, Orange Terracotta
+chisel:hardened_clay_orange:8, Orange Terracotta
+chisel:hardened_clay_orange:9, Orange Terracotta
+chisel:hardened_clay_orange:10, Orange Terracotta
+chisel:hardened_clay_orange:11, Orange Terracotta
+chisel:hardened_clay_orange:12, Orange Terracotta
+chisel:hardened_clay_orange:13, Orange Terracotta
+chisel:hardened_clay_orange:14, Orange Terracotta
+chisel:hardened_clay_orange:15, Orange Terracotta
+chisel:hardened_clay_orange2:0, Orange Terracotta
+chisel:hardened_clay_orange2:1, Orange Terracotta
+chisel:hardened_clay_orange2:2, Orange Terracotta
+chisel:hardened_clay_orange2:3, Orange Terracotta
+chisel:hardened_clay_orange2:4, Orange Terracotta
+chisel:hardened_clay_orange2:5, Orange Terracotta
+chisel:hardened_clay_orange2:6, Orange Terracotta
+chisel:hardened_clay_orange2:7, Orange Terracotta
+chisel:hardened_clay_orange2:8, Orange Terracotta
+chisel:hardened_clay_orange2:9, Orange Terracotta
+chisel:hardened_clay_magenta:0, Magenta Terracotta
+chisel:hardened_clay_magenta:1, Magenta Terracotta
+chisel:hardened_clay_magenta:2, Magenta Terracotta
+chisel:hardened_clay_magenta:3, Magenta Terracotta
+chisel:hardened_clay_magenta:4, Magenta Terracotta
+chisel:hardened_clay_magenta:5, Magenta Terracotta
+chisel:hardened_clay_magenta:6, Magenta Terracotta
+chisel:hardened_clay_magenta:7, Magenta Terracotta
+chisel:hardened_clay_magenta:8, Magenta Terracotta
+chisel:hardened_clay_magenta:9, Magenta Terracotta
+chisel:hardened_clay_magenta:10, Magenta Terracotta
+chisel:hardened_clay_magenta:11, Magenta Terracotta
+chisel:hardened_clay_magenta:12, Magenta Terracotta
+chisel:hardened_clay_magenta:13, Magenta Terracotta
+chisel:hardened_clay_magenta:14, Magenta Terracotta
+chisel:hardened_clay_magenta:15, Magenta Terracotta
+chisel:hardened_clay_magenta2:0, Magenta Terracotta
+chisel:hardened_clay_magenta2:1, Magenta Terracotta
+chisel:hardened_clay_magenta2:2, Magenta Terracotta
+chisel:hardened_clay_magenta2:3, Magenta Terracotta
+chisel:hardened_clay_magenta2:4, Magenta Terracotta
+chisel:hardened_clay_magenta2:5, Magenta Terracotta
+chisel:hardened_clay_magenta2:6, Magenta Terracotta
+chisel:hardened_clay_magenta2:7, Magenta Terracotta
+chisel:hardened_clay_magenta2:8, Magenta Terracotta
+chisel:hardened_clay_magenta2:9, Magenta Terracotta
+chisel:hardened_clay_lightblue:0, Light Blue Terracotta
+chisel:hardened_clay_lightblue:1, Light Blue Terracotta
+chisel:hardened_clay_lightblue:2, Light Blue Terracotta
+chisel:hardened_clay_lightblue:3, Light Blue Terracotta
+chisel:hardened_clay_lightblue:4, Light Blue Terracotta
+chisel:hardened_clay_lightblue:5, Light Blue Terracotta
+chisel:hardened_clay_lightblue:6, Light Blue Terracotta
+chisel:hardened_clay_lightblue:7, Light Blue Terracotta
+chisel:hardened_clay_lightblue:8, Light Blue Terracotta
+chisel:hardened_clay_lightblue:9, Light Blue Terracotta
+chisel:hardened_clay_lightblue:10, Light Blue Terracotta
+chisel:hardened_clay_lightblue:11, Light Blue Terracotta
+chisel:hardened_clay_lightblue:12, Light Blue Terracotta
+chisel:hardened_clay_lightblue:13, Light Blue Terracotta
+chisel:hardened_clay_lightblue:14, Light Blue Terracotta
+chisel:hardened_clay_lightblue:15, Light Blue Terracotta
+chisel:hardened_clay_lightblue2:0, Light Blue Terracotta
+chisel:hardened_clay_lightblue2:1, Light Blue Terracotta
+chisel:hardened_clay_lightblue2:2, Light Blue Terracotta
+chisel:hardened_clay_lightblue2:3, Light Blue Terracotta
+chisel:hardened_clay_lightblue2:4, Light Blue Terracotta
+chisel:hardened_clay_lightblue2:5, Light Blue Terracotta
+chisel:hardened_clay_lightblue2:6, Light Blue Terracotta
+chisel:hardened_clay_lightblue2:7, Light Blue Terracotta
+chisel:hardened_clay_lightblue2:8, Light Blue Terracotta
+chisel:hardened_clay_lightblue2:9, Light Blue Terracotta
+chisel:hardened_clay_yellow:0, Yellow Terracotta
+chisel:hardened_clay_yellow:1, Yellow Terracotta
+chisel:hardened_clay_yellow:2, Yellow Terracotta
+chisel:hardened_clay_yellow:3, Yellow Terracotta
+chisel:hardened_clay_yellow:4, Yellow Terracotta
+chisel:hardened_clay_yellow:5, Yellow Terracotta
+chisel:hardened_clay_yellow:6, Yellow Terracotta
+chisel:hardened_clay_yellow:7, Yellow Terracotta
+chisel:hardened_clay_yellow:8, Yellow Terracotta
+chisel:hardened_clay_yellow:9, Yellow Terracotta
+chisel:hardened_clay_yellow:10, Yellow Terracotta
+chisel:hardened_clay_yellow:11, Yellow Terracotta
+chisel:hardened_clay_yellow:12, Yellow Terracotta
+chisel:hardened_clay_yellow:13, Yellow Terracotta
+chisel:hardened_clay_yellow:14, Yellow Terracotta
+chisel:hardened_clay_yellow:15, Yellow Terracotta
+chisel:hardened_clay_yellow2:0, Yellow Terracotta
+chisel:hardened_clay_yellow2:1, Yellow Terracotta
+chisel:hardened_clay_yellow2:2, Yellow Terracotta
+chisel:hardened_clay_yellow2:3, Yellow Terracotta
+chisel:hardened_clay_yellow2:4, Yellow Terracotta
+chisel:hardened_clay_yellow2:5, Yellow Terracotta
+chisel:hardened_clay_yellow2:6, Yellow Terracotta
+chisel:hardened_clay_yellow2:7, Yellow Terracotta
+chisel:hardened_clay_yellow2:8, Yellow Terracotta
+chisel:hardened_clay_yellow2:9, Yellow Terracotta
+chisel:hardened_clay_lime:0, Lime Terracotta
+chisel:hardened_clay_lime:1, Lime Terracotta
+chisel:hardened_clay_lime:2, Lime Terracotta
+chisel:hardened_clay_lime:3, Lime Terracotta
+chisel:hardened_clay_lime:4, Lime Terracotta
+chisel:hardened_clay_lime:5, Lime Terracotta
+chisel:hardened_clay_lime:6, Lime Terracotta
+chisel:hardened_clay_lime:7, Lime Terracotta
+chisel:hardened_clay_lime:8, Lime Terracotta
+chisel:hardened_clay_lime:9, Lime Terracotta
+chisel:hardened_clay_lime:10, Lime Terracotta
+chisel:hardened_clay_lime:11, Lime Terracotta
+chisel:hardened_clay_lime:12, Lime Terracotta
+chisel:hardened_clay_lime:13, Lime Terracotta
+chisel:hardened_clay_lime:14, Lime Terracotta
+chisel:hardened_clay_lime:15, Lime Terracotta
+chisel:hardened_clay_lime2:0, Lime Terracotta
+chisel:hardened_clay_lime2:1, Lime Terracotta
+chisel:hardened_clay_lime2:2, Lime Terracotta
+chisel:hardened_clay_lime2:3, Lime Terracotta
+chisel:hardened_clay_lime2:4, Lime Terracotta
+chisel:hardened_clay_lime2:5, Lime Terracotta
+chisel:hardened_clay_lime2:6, Lime Terracotta
+chisel:hardened_clay_lime2:7, Lime Terracotta
+chisel:hardened_clay_lime2:8, Lime Terracotta
+chisel:hardened_clay_lime2:9, Lime Terracotta
+chisel:hardened_clay_pink:0, Pink Terracotta
+chisel:hardened_clay_pink:1, Pink Terracotta
+chisel:hardened_clay_pink:2, Pink Terracotta
+chisel:hardened_clay_pink:3, Pink Terracotta
+chisel:hardened_clay_pink:4, Pink Terracotta
+chisel:hardened_clay_pink:5, Pink Terracotta
+chisel:hardened_clay_pink:6, Pink Terracotta
+chisel:hardened_clay_pink:7, Pink Terracotta
+chisel:hardened_clay_pink:8, Pink Terracotta
+chisel:hardened_clay_pink:9, Pink Terracotta
+chisel:hardened_clay_pink:10, Pink Terracotta
+chisel:hardened_clay_pink:11, Pink Terracotta
+chisel:hardened_clay_pink:12, Pink Terracotta
+chisel:hardened_clay_pink:13, Pink Terracotta
+chisel:hardened_clay_pink:14, Pink Terracotta
+chisel:hardened_clay_pink:15, Pink Terracotta
+chisel:hardened_clay_pink2:0, Pink Terracotta
+chisel:hardened_clay_pink2:1, Pink Terracotta
+chisel:hardened_clay_pink2:2, Pink Terracotta
+chisel:hardened_clay_pink2:3, Pink Terracotta
+chisel:hardened_clay_pink2:4, Pink Terracotta
+chisel:hardened_clay_pink2:5, Pink Terracotta
+chisel:hardened_clay_pink2:6, Pink Terracotta
+chisel:hardened_clay_pink2:7, Pink Terracotta
+chisel:hardened_clay_pink2:8, Pink Terracotta
+chisel:hardened_clay_pink2:9, Pink Terracotta
+chisel:hardened_clay_gray:0, Gray Terracotta
+chisel:hardened_clay_gray:1, Gray Terracotta
+chisel:hardened_clay_gray:2, Gray Terracotta
+chisel:hardened_clay_gray:3, Gray Terracotta
+chisel:hardened_clay_gray:4, Gray Terracotta
+chisel:hardened_clay_gray:5, Gray Terracotta
+chisel:hardened_clay_gray:6, Gray Terracotta
+chisel:hardened_clay_gray:7, Gray Terracotta
+chisel:hardened_clay_gray:8, Gray Terracotta
+chisel:hardened_clay_gray:9, Gray Terracotta
+chisel:hardened_clay_gray:10, Gray Terracotta
+chisel:hardened_clay_gray:11, Gray Terracotta
+chisel:hardened_clay_gray:12, Gray Terracotta
+chisel:hardened_clay_gray:13, Gray Terracotta
+chisel:hardened_clay_gray:14, Gray Terracotta
+chisel:hardened_clay_gray:15, Gray Terracotta
+chisel:hardened_clay_gray2:0, Gray Terracotta
+chisel:hardened_clay_gray2:1, Gray Terracotta
+chisel:hardened_clay_gray2:2, Gray Terracotta
+chisel:hardened_clay_gray2:3, Gray Terracotta
+chisel:hardened_clay_gray2:4, Gray Terracotta
+chisel:hardened_clay_gray2:5, Gray Terracotta
+chisel:hardened_clay_gray2:6, Gray Terracotta
+chisel:hardened_clay_gray2:7, Gray Terracotta
+chisel:hardened_clay_gray2:8, Gray Terracotta
+chisel:hardened_clay_gray2:9, Gray Terracotta
+chisel:hardened_clay_lightgray:0, Light Gray Terracotta
+chisel:hardened_clay_lightgray:1, Light Gray Terracotta
+chisel:hardened_clay_lightgray:2, Light Gray Terracotta
+chisel:hardened_clay_lightgray:3, Light Gray Terracotta
+chisel:hardened_clay_lightgray:4, Light Gray Terracotta
+chisel:hardened_clay_lightgray:5, Light Gray Terracotta
+chisel:hardened_clay_lightgray:6, Light Gray Terracotta
+chisel:hardened_clay_lightgray:7, Light Gray Terracotta
+chisel:hardened_clay_lightgray:8, Light Gray Terracotta
+chisel:hardened_clay_lightgray:9, Light Gray Terracotta
+chisel:hardened_clay_lightgray:10, Light Gray Terracotta
+chisel:hardened_clay_lightgray:11, Light Gray Terracotta
+chisel:hardened_clay_lightgray:12, Light Gray Terracotta
+chisel:hardened_clay_lightgray:13, Light Gray Terracotta
+chisel:hardened_clay_lightgray:14, Light Gray Terracotta
+chisel:hardened_clay_lightgray:15, Light Gray Terracotta
+chisel:hardened_clay_lightgray2:0, Light Gray Terracotta
+chisel:hardened_clay_lightgray2:1, Light Gray Terracotta
+chisel:hardened_clay_lightgray2:2, Light Gray Terracotta
+chisel:hardened_clay_lightgray2:3, Light Gray Terracotta
+chisel:hardened_clay_lightgray2:4, Light Gray Terracotta
+chisel:hardened_clay_lightgray2:5, Light Gray Terracotta
+chisel:hardened_clay_lightgray2:6, Light Gray Terracotta
+chisel:hardened_clay_lightgray2:7, Light Gray Terracotta
+chisel:hardened_clay_lightgray2:8, Light Gray Terracotta
+chisel:hardened_clay_lightgray2:9, Light Gray Terracotta
+chisel:hardened_clay_cyan:0, Cyan Terracotta
+chisel:hardened_clay_cyan:1, Cyan Terracotta
+chisel:hardened_clay_cyan:2, Cyan Terracotta
+chisel:hardened_clay_cyan:3, Cyan Terracotta
+chisel:hardened_clay_cyan:4, Cyan Terracotta
+chisel:hardened_clay_cyan:5, Cyan Terracotta
+chisel:hardened_clay_cyan:6, Cyan Terracotta
+chisel:hardened_clay_cyan:7, Cyan Terracotta
+chisel:hardened_clay_cyan:8, Cyan Terracotta
+chisel:hardened_clay_cyan:9, Cyan Terracotta
+chisel:hardened_clay_cyan:10, Cyan Terracotta
+chisel:hardened_clay_cyan:11, Cyan Terracotta
+chisel:hardened_clay_cyan:12, Cyan Terracotta
+chisel:hardened_clay_cyan:13, Cyan Terracotta
+chisel:hardened_clay_cyan:14, Cyan Terracotta
+chisel:hardened_clay_cyan:15, Cyan Terracotta
+chisel:hardened_clay_cyan2:0, Cyan Terracotta
+chisel:hardened_clay_cyan2:1, Cyan Terracotta
+chisel:hardened_clay_cyan2:2, Cyan Terracotta
+chisel:hardened_clay_cyan2:3, Cyan Terracotta
+chisel:hardened_clay_cyan2:4, Cyan Terracotta
+chisel:hardened_clay_cyan2:5, Cyan Terracotta
+chisel:hardened_clay_cyan2:6, Cyan Terracotta
+chisel:hardened_clay_cyan2:7, Cyan Terracotta
+chisel:hardened_clay_cyan2:8, Cyan Terracotta
+chisel:hardened_clay_cyan2:9, Cyan Terracotta
+chisel:hardened_clay_purple:0, Purple Terracotta
+chisel:hardened_clay_purple:1, Purple Terracotta
+chisel:hardened_clay_purple:2, Purple Terracotta
+chisel:hardened_clay_purple:3, Purple Terracotta
+chisel:hardened_clay_purple:4, Purple Terracotta
+chisel:hardened_clay_purple:5, Purple Terracotta
+chisel:hardened_clay_purple:6, Purple Terracotta
+chisel:hardened_clay_purple:7, Purple Terracotta
+chisel:hardened_clay_purple:8, Purple Terracotta
+chisel:hardened_clay_purple:9, Purple Terracotta
+chisel:hardened_clay_purple:10, Purple Terracotta
+chisel:hardened_clay_purple:11, Purple Terracotta
+chisel:hardened_clay_purple:12, Purple Terracotta
+chisel:hardened_clay_purple:13, Purple Terracotta
+chisel:hardened_clay_purple:14, Purple Terracotta
+chisel:hardened_clay_purple:15, Purple Terracotta
+chisel:hardened_clay_purple2:0, Purple Terracotta
+chisel:hardened_clay_purple2:1, Purple Terracotta
+chisel:hardened_clay_purple2:2, Purple Terracotta
+chisel:hardened_clay_purple2:3, Purple Terracotta
+chisel:hardened_clay_purple2:4, Purple Terracotta
+chisel:hardened_clay_purple2:5, Purple Terracotta
+chisel:hardened_clay_purple2:6, Purple Terracotta
+chisel:hardened_clay_purple2:7, Purple Terracotta
+chisel:hardened_clay_purple2:8, Purple Terracotta
+chisel:hardened_clay_purple2:9, Purple Terracotta
+chisel:hardened_clay_blue:0, Blue Terracotta
+chisel:hardened_clay_blue:1, Blue Terracotta
+chisel:hardened_clay_blue:2, Blue Terracotta
+chisel:hardened_clay_blue:3, Blue Terracotta
+chisel:hardened_clay_blue:4, Blue Terracotta
+chisel:hardened_clay_blue:5, Blue Terracotta
+chisel:hardened_clay_blue:6, Blue Terracotta
+chisel:hardened_clay_blue:7, Blue Terracotta
+chisel:hardened_clay_blue:8, Blue Terracotta
+chisel:hardened_clay_blue:9, Blue Terracotta
+chisel:hardened_clay_blue:10, Blue Terracotta
+chisel:hardened_clay_blue:11, Blue Terracotta
+chisel:hardened_clay_blue:12, Blue Terracotta
+chisel:hardened_clay_blue:13, Blue Terracotta
+chisel:hardened_clay_blue:14, Blue Terracotta
+chisel:hardened_clay_blue:15, Blue Terracotta
+chisel:hardened_clay_blue2:0, Blue Terracotta
+chisel:hardened_clay_blue2:1, Blue Terracotta
+chisel:hardened_clay_blue2:2, Blue Terracotta
+chisel:hardened_clay_blue2:3, Blue Terracotta
+chisel:hardened_clay_blue2:4, Blue Terracotta
+chisel:hardened_clay_blue2:5, Blue Terracotta
+chisel:hardened_clay_blue2:6, Blue Terracotta
+chisel:hardened_clay_blue2:7, Blue Terracotta
+chisel:hardened_clay_blue2:8, Blue Terracotta
+chisel:hardened_clay_blue2:9, Blue Terracotta
+chisel:hardened_clay_brown:0, Brown Terracotta
+chisel:hardened_clay_brown:1, Brown Terracotta
+chisel:hardened_clay_brown:2, Brown Terracotta
+chisel:hardened_clay_brown:3, Brown Terracotta
+chisel:hardened_clay_brown:4, Brown Terracotta
+chisel:hardened_clay_brown:5, Brown Terracotta
+chisel:hardened_clay_brown:6, Brown Terracotta
+chisel:hardened_clay_brown:7, Brown Terracotta
+chisel:hardened_clay_brown:8, Brown Terracotta
+chisel:hardened_clay_brown:9, Brown Terracotta
+chisel:hardened_clay_brown:10, Brown Terracotta
+chisel:hardened_clay_brown:11, Brown Terracotta
+chisel:hardened_clay_brown:12, Brown Terracotta
+chisel:hardened_clay_brown:13, Brown Terracotta
+chisel:hardened_clay_brown:14, Brown Terracotta
+chisel:hardened_clay_brown:15, Brown Terracotta
+chisel:hardened_clay_brown2:0, Brown Terracotta
+chisel:hardened_clay_brown2:1, Brown Terracotta
+chisel:hardened_clay_brown2:2, Brown Terracotta
+chisel:hardened_clay_brown2:3, Brown Terracotta
+chisel:hardened_clay_brown2:4, Brown Terracotta
+chisel:hardened_clay_brown2:5, Brown Terracotta
+chisel:hardened_clay_brown2:6, Brown Terracotta
+chisel:hardened_clay_brown2:7, Brown Terracotta
+chisel:hardened_clay_brown2:8, Brown Terracotta
+chisel:hardened_clay_brown2:9, Brown Terracotta
+chisel:hardened_clay_green:0, Green Terracotta
+chisel:hardened_clay_green:1, Green Terracotta
+chisel:hardened_clay_green:2, Green Terracotta
+chisel:hardened_clay_green:3, Green Terracotta
+chisel:hardened_clay_green:4, Green Terracotta
+chisel:hardened_clay_green:5, Green Terracotta
+chisel:hardened_clay_green:6, Green Terracotta
+chisel:hardened_clay_green:7, Green Terracotta
+chisel:hardened_clay_green:8, Green Terracotta
+chisel:hardened_clay_green:9, Green Terracotta
+chisel:hardened_clay_green:10, Green Terracotta
+chisel:hardened_clay_green:11, Green Terracotta
+chisel:hardened_clay_green:12, Green Terracotta
+chisel:hardened_clay_green:13, Green Terracotta
+chisel:hardened_clay_green:14, Green Terracotta
+chisel:hardened_clay_green:15, Green Terracotta
+chisel:hardened_clay_green2:0, Green Terracotta
+chisel:hardened_clay_green2:1, Green Terracotta
+chisel:hardened_clay_green2:2, Green Terracotta
+chisel:hardened_clay_green2:3, Green Terracotta
+chisel:hardened_clay_green2:4, Green Terracotta
+chisel:hardened_clay_green2:5, Green Terracotta
+chisel:hardened_clay_green2:6, Green Terracotta
+chisel:hardened_clay_green2:7, Green Terracotta
+chisel:hardened_clay_green2:8, Green Terracotta
+chisel:hardened_clay_green2:9, Green Terracotta
+chisel:hardened_clay_red:0, Red Terracotta
+chisel:hardened_clay_red:1, Red Terracotta
+chisel:hardened_clay_red:2, Red Terracotta
+chisel:hardened_clay_red:3, Red Terracotta
+chisel:hardened_clay_red:4, Red Terracotta
+chisel:hardened_clay_red:5, Red Terracotta
+chisel:hardened_clay_red:6, Red Terracotta
+chisel:hardened_clay_red:7, Red Terracotta
+chisel:hardened_clay_red:8, Red Terracotta
+chisel:hardened_clay_red:9, Red Terracotta
+chisel:hardened_clay_red:10, Red Terracotta
+chisel:hardened_clay_red:11, Red Terracotta
+chisel:hardened_clay_red:12, Red Terracotta
+chisel:hardened_clay_red:13, Red Terracotta
+chisel:hardened_clay_red:14, Red Terracotta
+chisel:hardened_clay_red:15, Red Terracotta
+chisel:hardened_clay_red2:0, Red Terracotta
+chisel:hardened_clay_red2:1, Red Terracotta
+chisel:hardened_clay_red2:2, Red Terracotta
+chisel:hardened_clay_red2:3, Red Terracotta
+chisel:hardened_clay_red2:4, Red Terracotta
+chisel:hardened_clay_red2:5, Red Terracotta
+chisel:hardened_clay_red2:6, Red Terracotta
+chisel:hardened_clay_red2:7, Red Terracotta
+chisel:hardened_clay_red2:8, Red Terracotta
+chisel:hardened_clay_red2:9, Red Terracotta
+chisel:hardened_clay_black:0, Black Terracotta
+chisel:hardened_clay_black:1, Black Terracotta
+chisel:hardened_clay_black:2, Black Terracotta
+chisel:hardened_clay_black:3, Black Terracotta
+chisel:hardened_clay_black:4, Black Terracotta
+chisel:hardened_clay_black:5, Black Terracotta
+chisel:hardened_clay_black:6, Black Terracotta
+chisel:hardened_clay_black:7, Black Terracotta
+chisel:hardened_clay_black:8, Black Terracotta
+chisel:hardened_clay_black:9, Black Terracotta
+chisel:hardened_clay_black:10, Black Terracotta
+chisel:hardened_clay_black:11, Black Terracotta
+chisel:hardened_clay_black:12, Black Terracotta
+chisel:hardened_clay_black:13, Black Terracotta
+chisel:hardened_clay_black:14, Black Terracotta
+chisel:hardened_clay_black:15, Black Terracotta
+chisel:hardened_clay_black2:0, Black Terracotta
+chisel:hardened_clay_black2:1, Black Terracotta
+chisel:hardened_clay_black2:2, Black Terracotta
+chisel:hardened_clay_black2:3, Black Terracotta
+chisel:hardened_clay_black2:4, Black Terracotta
+chisel:hardened_clay_black2:5, Black Terracotta
+chisel:hardened_clay_black2:6, Black Terracotta
+chisel:hardened_clay_black2:7, Black Terracotta
+chisel:hardened_clay_black2:8, Black Terracotta
+chisel:hardened_clay_black2:9, Black Terracotta
 chisel:hexPlating:0, Hex Plating
 chisel:hexPlating:1, Hex Plating
 chisel:hexPlating:2, Hex Plating
@@ -5815,6 +6258,7 @@ chisel:iron2:2, Block of Iron
 chisel:iron2:3, Block of Iron
 chisel:iron2:4, Block of Iron
 chisel:iron2:5, Block of Iron
+chisel:iron_block:0, Iron Block
 chisel:iron_block:1, Iron Block
 chisel:iron_block:2, Iron Block
 chisel:iron_block:3, Iron Block
@@ -6343,6 +6787,12 @@ chisel:technical4:4, Technical Block
 chisel:technical4:5, Technical Block
 chisel:technical4:6, Technical Block
 chisel:technical4:7, Technical Block
+chisel:technical4:8, Technical Block
+chisel:technical4:9, Technical Block
+chisel:technical4:10, Technical Block
+chisel:technical4:11, Technical Block
+chisel:technical4:12, Technical Block
+chisel:technical4:13, Technical Block
 chisel:templeblock:0, Temple Block
 chisel:templeblock:1, Temple Block
 chisel:templeblock:2, Temple Block
@@ -6630,6 +7080,22 @@ chisel:froglight:6, Froglight
 chisel:froglight:7, Froglight
 chisel:froglight:8, Froglight
 chisel:froglight:9, Froglight
+chisel:lantern:0, Lantern
+chisel:lantern:1, Lantern
+chisel:lantern:2, Lantern
+chisel:lantern:3, Lantern
+chisel:lantern:4, Lantern
+chisel:lantern:5, Lantern
+chisel:sheetmetal:0, Sheetmetal
+chisel:sheetmetal:1, Sheetmetal
+chisel:sheetmetal:2, Sheetmetal
+chisel:sheetmetal:3, Sheetmetal
+chisel:sheetmetal:4, Sheetmetal
+chisel:sheetmetal:5, Sheetmetal
+chisel:sheetmetal:6, Sheetmetal
+chisel:sheetmetal:7, Sheetmetal
+chisel:sheetmetal:8, Sheetmetal
+chisel:sheetmetal:9, Sheetmetal
 customnpcs:npcRedstoneBlock, Bloco de Redstone
 customnpcs:npcCarpentyBench:0, Mesa de Carpintaria
 customnpcs:npcCarpentyBench:1, Bigorna
@@ -7404,6 +7870,18 @@ etfuturum:granite_stairs, Granite Stairs
 etfuturum:polished_granite_stairs, Polished Granite Stairs
 etfuturum:diorite_stairs, Diorite Stairs
 etfuturum:polished_diorite_stairs, Polished Diorite Stairs
+minecraft:record_13, Disco de Música
+minecraft:record_cat, Disco de Música
+minecraft:record_blocks, Disco de Música
+minecraft:record_chirp, Disco de Música
+minecraft:record_far, Disco de Música
+minecraft:record_mall, Disco de Música
+minecraft:record_mellohi, Disco de Música
+minecraft:record_stal, Disco de Música
+minecraft:record_strad, Disco de Música
+minecraft:record_ward, Disco de Música
+minecraft:record_11, Disco de Música
+minecraft:record_wait, Disco de Música
 etfuturum:andesite_stairs, Andesite Stairs
 etfuturum:polished_andesite_stairs, Polished Andesite Stairs
 etfuturum:mossy_stone_brick_stairs, Mossy Stone Brick Stairs
@@ -7449,18 +7927,6 @@ etfuturum:tuff_wall:1, Polished Tuff Wall
 etfuturum:tuff_wall:2, Tuff Brick Wall
 etfuturum:mud_brick_wall:0, Mud Brick Wall
 etfuturum:copper_door, Copper Door
-minecraft:record_13, Disco de Música
-minecraft:record_cat, Disco de Música
-minecraft:record_blocks, Disco de Música
-minecraft:record_chirp, Disco de Música
-minecraft:record_far, Disco de Música
-minecraft:record_mall, Disco de Música
-minecraft:record_mellohi, Disco de Música
-minecraft:record_stal, Disco de Música
-minecraft:record_strad, Disco de Música
-minecraft:record_ward, Disco de Música
-minecraft:record_11, Disco de Música
-minecraft:record_wait, Disco de Música
 etfuturum:exposed_copper_door, Exposed Copper Door
 etfuturum:weathered_copper_door, Weathered Copper Door
 etfuturum:oxidized_copper_door, Oxidized Copper Door
@@ -9698,6 +10164,309 @@ netherlicious:NetherCraftingTable:0, Crimson Crafting Table
 netherlicious:NetherCraftingTable:1, Warped Crafting Table
 netherlicious:NetherCraftingTable:2, Foxfire Crafting Table
 netherlicious:spectralDew, Spectral Dew
+OpenBlocks:ladder, Escada cansada
+OpenBlocks:guide, Guia de construção
+OpenBlocks:builder_guide, Enhanced Building Guide
+OpenBlocks:elevator:0, Elevador
+OpenBlocks:elevator:1, Elevador
+OpenBlocks:elevator:2, Elevador
+OpenBlocks:elevator:3, Elevador
+OpenBlocks:elevator:4, Elevador
+OpenBlocks:elevator:5, Elevador
+OpenBlocks:elevator:6, Elevador
+OpenBlocks:elevator:7, Elevador
+OpenBlocks:elevator:8, Elevador
+OpenBlocks:elevator:9, Elevador
+OpenBlocks:elevator:10, Elevador
+OpenBlocks:elevator:11, Elevador
+OpenBlocks:elevator:12, Elevador
+OpenBlocks:elevator:13, Elevador
+OpenBlocks:elevator:14, Elevador
+OpenBlocks:elevator:15, Elevador
+OpenBlocks:elevator_rotating:0, Rotating Elevator
+OpenBlocks:elevator_rotating:1, Rotating Elevator
+OpenBlocks:elevator_rotating:2, Rotating Elevator
+OpenBlocks:elevator_rotating:3, Rotating Elevator
+OpenBlocks:elevator_rotating:4, Rotating Elevator
+OpenBlocks:elevator_rotating:5, Rotating Elevator
+OpenBlocks:elevator_rotating:6, Rotating Elevator
+OpenBlocks:elevator_rotating:7, Rotating Elevator
+OpenBlocks:elevator_rotating:8, Rotating Elevator
+OpenBlocks:elevator_rotating:9, Rotating Elevator
+OpenBlocks:elevator_rotating:10, Rotating Elevator
+OpenBlocks:elevator_rotating:11, Rotating Elevator
+OpenBlocks:elevator_rotating:12, Rotating Elevator
+OpenBlocks:elevator_rotating:13, Rotating Elevator
+OpenBlocks:elevator_rotating:14, Rotating Elevator
+OpenBlocks:elevator_rotating:15, Rotating Elevator
+OpenBlocks:heal, Curador
+OpenBlocks:target, Alvo
+OpenBlocks:grave, Túmulo
+OpenBlocks:flag, Bandeira
+OpenBlocks:tank, Tanque
+OpenBlocks:trophy, Troféu
+OpenBlocks:beartrap, Armadilha de ursos
+OpenBlocks:sprinkler, Borrifador
+OpenBlocks:cannon, Canhão de itens
+OpenBlocks:vacuumhopper, Funil a vácuo
+OpenBlocks:sponge, Esponja
+OpenBlocks:bigbutton, Grande botão
+OpenBlocks:imaginary:0, Lapis mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:imaginary:1, Giz de cera mágico
+OpenBlocks:fan, Ventilador
+OpenBlocks:xpbottler, Engarrafador de experiência
+OpenBlocks:village_highlighter, Realçador de aldeões
+OpenBlocks:path, Caminho
+OpenBlocks:autoanvil, Bigorna automática
+OpenBlocks:autoenchantmenttable, Mesa de encantamentos automática
+OpenBlocks:xpdrain, Dreno de experiência
+OpenBlocks:blockbreaker, Block Breaker
+OpenBlocks:blockPlacer, Block Placer
+OpenBlocks:itemDropper, Item Dropper
+OpenBlocks:ropeladder, Corda
+OpenBlocks:donationStation, Donation Station
+OpenBlocks:paintmixer, Paint Mixer
+OpenBlocks:canvas, Canvas
+OpenBlocks:paintcan, Paint Can
+OpenBlocks:canvasglass, Glass Canvas
+OpenBlocks:projector, Height Map Projector
+OpenBlocks:drawingtable, Drawing Table
+OpenBlocks:sky:0, Sky Block
+OpenBlocks:sky:1, Sky Block
+OpenBlocks:xpshower, XP Shower
+OpenBlocks:goldenegg, Golden Egg
+OpenBlocks:scaffolding, Scaffolding
+OreSpawn:HoneycombBlock, Honeycomb Block
+OreSpawn:zilla_scale_block, Zilla Scale Block
+OreSpawn:queen_scale_block, Queen Scale Block
+OreSpawn:king_scale_block, King Scale Block
+OreSpawn:armorstand, Armor Stand
+OreSpawn:skybeam, Sky Beam
+OreSpawn:starstone, Star Stone
+OreSpawn:tile.Trophy:0, tile.Trophy.0.name
+OreSpawn:rice_plant, Unnamed Block, report to mod author.
+OreSpawn:bean_plant, Unnamed Block, report to mod author.
+OreSpawn:lettuce_plant, Unnamed Block, report to mod author.
+OreSpawn:strawberry_plant, Unnamed Block, report to mod author.
+OreSpawn:OreSaltBlock, Salt Ore
+OreSpawn:RTPBlock, RTP Block
+OreSpawn:MoleDirtBlock, Moledirt
+OreSpawn:OreTitaniumBlock, Titanium Ore
+OreSpawn:OreUraniumBlock, Uranium Ore
+OreSpawn:BlockTitaniumBlock, Titanium Block
+OreSpawn:BlockUraniumBlock, Uranium Block
+OreSpawn:LavafoamBlock, Lavafoam
+OreSpawn:OreRubyBlock, Ruby Ore
+OreSpawn:BlockRubyBlock, Ruby Block
+OreSpawn:OreAmethystBlock, Amethyst Ore
+OreSpawn:BlockAmethystBlock, Amethyst Block
+OreSpawn:CrystalPinkBlock, Tourmaline Block
+OreSpawn:TigersEyeBlock, Tigerseye Block
+OreSpawn:PizzaBlock, Pizza
+OreSpawn:DuctTapeBlock, Ducttape
+OreSpawn:OreCrystalStoneBlock, Crystal Stone
+OreSpawn:OreCrystalRatBlock, Crystal Rat
+OreSpawn:OreRedAntTrollBlock, Red Ant Troll
+OreSpawn:OreTermiteTrollBlock, Termite Troll
+OreSpawn:OreCrystalFairyBlock, Fairy Fossil
+OreSpawn:OreCrystalCoalBlock, Coal Crystal
+OreSpawn:OreCrystalGrassBlock, Crystal Grass
+OreSpawn:OreCrystalCrystalBlock, Crystal
+OreSpawn:OreTigersEyeBlock, Tigerseye
+OreSpawn:CrystalPlanksBlock, Crystal Planks
+OreSpawn:CrystalWorkbenchBlock, Crystal Workbench
+OreSpawn:CrystalFurnaceBlock, Crystal Furnace
+OreSpawn:CrystalFurnaceOnBlock, Crystal Furnace
+OreSpawn:RadishPlant, Unnamed Block, report to mod author.
+OreSpawn:ButterflyPlant, Unnamed Block, report to mod author.
+OreSpawn:MothPlant, Unnamed Block, report to mod author.
+OreSpawn:MosquitoPlant, Unnamed Block, report to mod author.
+OreSpawn:FireflyPlant, Unnamed Block, report to mod author.
+OreSpawn:CornPlant1, Corn Block 0
+OreSpawn:CornPlant2, Corn Block 1
+OreSpawn:CornPlant3, Corn Block 2
+OreSpawn:CornPlant4, Corn Block 3
+OreSpawn:QuinoaPlant1, Quinoa Plant I
+OreSpawn:QuinoaPlant2, Quinoa Plant II
+OreSpawn:QuinoaPlant3, Quinoa Plant III
+OreSpawn:QuinoaPlant4, Quinoa Plant IV
+OreSpawn:TomatoPlant1, Tomato Block 0
+OreSpawn:TomatoPlant2, Tomato Block 1
+OreSpawn:TomatoPlant3, Tomato Block 2
+OreSpawn:TomatoPlant4, Tomato Block 3
+OreSpawn:AppleLeaves, Apple Leaves
+OreSpawn:ExperienceLeaves, Experience Leaves
+OreSpawn:ScaryLeaves, Scary Leaves
+OreSpawn:CherryLeaves, Cherry Leaves
+OreSpawn:PeachLeaves, Peach Leaves
+OreSpawn:SkyTreeLog, Sky Tree Log
+OreSpawn:DuplicatorLog, Duplicator Tree Log
+OreSpawn:ExperiencePlant, Experience Sapling
+OreSpawn:CrystalPlant, Crystal Sapling
+OreSpawn:CrystalPlant2, Crystal Sapling I
+OreSpawn:CrystalPlant3, Crystal Sapling II
+OreSpawn:FlowerPink, Flower Pink
+OreSpawn:FlowerBlue, Flower Blue
+OreSpawn:FlowerBlack, Flower Black
+OreSpawn:FlowerScary, Flower Scary
+OreSpawn:CrystalFlowerRed, Crystal Flower Red
+OreSpawn:CrystalFlowerGreen, Crystal Flower Green
+OreSpawn:CrystalFlowerBlue, Crystal Flower Blue
+OreSpawn:CrystalFlowerYellow, Crystal Flower Yellow
+OreSpawn:CrystalLeaves, Crystal Tree Leaves
+OreSpawn:CrystalLeaves2, Crystal Tree Leaves 2
+OreSpawn:CrystalLeaves3, Crystal Leaves
+OreSpawn:CrystalTreeLog, Crystal Tree Logs
+OreSpawn:ExtremeTorch, Extreme Torch
+OreSpawn:CrystalTorch, Crystal Torch
+OreSpawn:KrakenRepellent, Kraken Repellent
+OreSpawn:CreeperRepellent, Creeper Repellent
+OreSpawn:Island, Island
+OreSpawn:KingSpawner, King Spawner
+OreSpawn:QueenSpawner, Queen Spawner
+OreSpawn:DungeonSpawner, Dungeon Spawner
+OreSpawn:EnderPearlBlock, Ender pearl Block
+OreSpawn:EyeOfEnderBlock, Eye of Ender Block
+OreSpawn:AntBlock, Ant Block
+OreSpawn:RedAntBlock, Anthill Red
+OreSpawn:TermiteBlock, Termite Mound
+OreSpawn:CrystalTermiteBlock, tile.CrystalTermiteBlock.name
+OreSpawn:RainbowAntBlock, Anthill Rainbow
+OreSpawn:UnstableAntBlock, Anthill Unstable
+OreSpawn:SpiderSpawnBlock, tile.orespider.name
+OreSpawn:BatSpawnBlock, tile.orebat.name
+OreSpawn:CowSpawnBlock, tile.orecow.name
+OreSpawn:PigSpawnBlock, tile.orepig.name
+OreSpawn:SquidSpawnBlock, tile.oresquid.name
+OreSpawn:ChickenSpawnBlock, tile.orechicken.name
+OreSpawn:CreeperSpawnBlock, tile.orecreeper.name
+OreSpawn:SkeletonSpawnBlock, tile.oreskeleton.name
+OreSpawn:ZombieSpawnBlock, tile.orezombie.name
+OreSpawn:SlimeSpawnBlock, tile.oreslime.name
+OreSpawn:GhastSpawnBlock, Ghast Fossil
+OreSpawn:ZombiePigmanSpawnBlock, tile.orezombiepigman.name
+OreSpawn:EndermanSpawnBlock, tile.oreenderman.name
+OreSpawn:CaveSpiderSpawnBlock, tile.orecavespider.name
+OreSpawn:SilverfishSpawnBlock, tile.oresilverfish.name
+OreSpawn:MagmaCubeSpawnBlock, tile.oremagmacube.name
+OreSpawn:WitchSpawnBlock, tile.orewitch.name
+OreSpawn:SheepSpawnBlock, tile.oresheep.name
+OreSpawn:WolfSpawnBlock, tile.orewolf.name
+OreSpawn:MooshroomSpawnBlock, tile.oremooshroom.name
+OreSpawn:WitherBossSpawnBlock, Wither Boss Fossil
+OreSpawn:GirlfriendSpawnBlock, Girlfriend Fossil
+OreSpawn:BoyfriendSpawnBlock, Boyfriend Fossil
+OreSpawn:RedCowSpawnBlock, Red Cow Fossil
+OreSpawn:CrystalCowSpawnBlock, Crystal Cow Fossil
+OreSpawn:VillagerSpawnBlock, Villager Fossil
+OreSpawn:GoldCowSpawnBlock, Gold Cow Fossil
+OreSpawn:EnchantedCowSpawnBlock, Enchanted Cow Fossil
+OreSpawn:MOTHRASpawnBlock, Mothra Fossil
+OreSpawn:AloSpawnBlock, Alosaurus Fossil
+OreSpawn:CryoSpawnBlock, Cryolophosaurus Fossil
+OreSpawn:CamaSpawnBlock, Camarasaurus Fossil
+OreSpawn:VeloSpawnBlock, Velocity Raptor Fossil
+OreSpawn:HydroSpawnBlock, Hydrolisc Fossil
+OreSpawn:BasilSpawnBlock, Basilisc Fossil
+OreSpawn:DragonflySpawnBlock, Dragon Fly Fossil
+OreSpawn:EmperorScorpionSpawnBlock, Emperor Scorpion Fossil
+OreSpawn:ScorpionSpawnBlock, Scorpion Fossil
+OreSpawn:CaveFisherSpawnBlock, Cave Fisher Fossil
+OreSpawn:SpyroSpawnBlock, Spyro Fossil
+OreSpawn:BaryonyxSpawnBlock, Baryonyx Fossil
+OreSpawn:GammaMetroidSpawnBlock, Gammametroid Fossil
+OreSpawn:CockateilSpawnBlock, Cockateil Fossil
+OreSpawn:KyuubiSpawnBlock, Kyuubi Fossil
+OreSpawn:AlienSpawnBlock, Alien Fossil
+OreSpawn:IronGolemSpawnBlock, tile.oreirongolem.name
+OreSpawn:SnowGolemSpawnBlock, tile.oresnowgolem.name
+OreSpawn:EnderDragonSpawnBlock, Ender Dragon Fossil
+OreSpawn:OcelotSpawnBlock, tile.oreocelot.name
+OreSpawn:WitherSkeletonSpawnBlock, Wither Skeleton Fossil
+OreSpawn:BlazeSpawnBlock, tile.oreblaze.name
+OreSpawn:AttackSquidSpawnBlock, Attack Squid Fossil
+OreSpawn:WaterDragonSpawnBlock, Water Dragon Fossil
+OreSpawn:CephadromeSpawnBlock, Cephadrome Fossil
+OreSpawn:KrakenSpawnBlock, Kraken Fossil
+OreSpawn:LizardSpawnBlock, Lizard Fossil
+OreSpawn:DragonSpawnBlock, Dragon Fossil
+OreSpawn:BeeSpawnBlock, Bee Fossil
+OreSpawn:HorseSpawnBlock, Horse Fossil
+OreSpawn:TrooperBugSpawnBlock, Trooper Bug Fossil
+OreSpawn:SpitBugSpawnBlock, Spit Bug Fossil
+OreSpawn:StinkBugSpawnBlock, Stink Fossil
+OreSpawn:OstrichSpawnBlock, Ostrich Fossil
+OreSpawn:GazelleSpawnBlock, Gazelle Fossil
+OreSpawn:ChipmunkSpawnBlock, Chipmunk Fossil
+OreSpawn:CreepingHorrorSpawnBlock, Creepinghorror Fossil
+OreSpawn:TerribleTerrorSpawnBlock, Terribleterror Fossil
+OreSpawn:CliffRacerSpawnBlock, Cliffracer Fossil
+OreSpawn:TriffidSpawnBlock, Triffid Fossil
+OreSpawn:PitchBlackSpawnBlock, Nightmare Fossil
+OreSpawn:LurkingTerrorSpawnBlock, Lurkingterror Fossil
+OreSpawn:GodzillaPartSpawnBlock, Zilla Fossil Part I
+OreSpawn:GodzillaSpawnBlock, Zilla Fossil Part II
+OreSpawn:TheKingPartSpawnBlock, King Fossil Part I
+OreSpawn:TheKingSpawnBlock, King Fossil Part II
+OreSpawn:TheQueenPartSpawnBlock, Queen Fossil Part I
+OreSpawn:TheQueenSpawnBlock, Queen Fossil Part II
+OreSpawn:SmallWormSpawnBlock, Worm Small Fossil
+OreSpawn:MediumWormSpawnBlock, Worm Medium Fossil
+OreSpawn:LargeWormSpawnBlock, Large Worm Fossil
+OreSpawn:CassowarySpawnBlock, Cassowary Fossil
+OreSpawn:CloudSharkSpawnBlock, Cloudshark Fossil
+OreSpawn:GoldFishSpawnBlock, Goldfish Fossil
+OreSpawn:LeafMonsterSpawnBlock, Leaf Monster Fossil
+OreSpawn:TshirtSpawnBlock, T-Shirt Fossil
+OreSpawn:EnderKnightSpawnBlock, Ender Knight Fossil
+OreSpawn:EnderReaperSpawnBlock, Ender Reaper Fossil
+OreSpawn:BeaverSpawnBlock, Beaver Fossil
+OreSpawn:UrchinSpawnBlock, Urchin Fossil
+OreSpawn:FlounderSpawnBlock, Flounder Fossil
+OreSpawn:SkateSpawnBlock, Skate Fossil
+OreSpawn:RotatorSpawnBlock, Rotator Fossil
+OreSpawn:PeacockSpawnBlock, Peacock Fossil
+OreSpawn:FairySpawnBlock, Fairy Fossil
+OreSpawn:DungeonBeastSpawnBlock, Dungeon Beast Fossil
+OreSpawn:VortexSpawnBlock, Vortex Eye Fossil
+OreSpawn:RatSpawnBlock, Rat Fossil
+OreSpawn:WhaleSpawnBlock, Whale Fossil
+OreSpawn:IrukandjiSpawnBlock, Irukandji Fossil
+OreSpawn:TRexSpawnBlock, TRex Fossil
+OreSpawn:HerculesSpawnBlock, Hercules Beetle Fossil
+OreSpawn:MantisSpawnBlock, Mantis Fossil
+OreSpawn:StinkySpawnBlock, Stinky Fossil
+OreSpawn:EasterBunnySpawnBlock, Easter Bunny Fossil
+OreSpawn:CaterKillerSpawnBlock, Caterkiller Fossil
+OreSpawn:MolenoidSpawnBlock, Molenoid Fossil
+OreSpawn:SeaMonsterSpawnBlock, Sea Monster Fossil
+OreSpawn:SeaViperSpawnBlock, Sea Viper Fossil
+OreSpawn:LeonSpawnBlock, Leon Fossil
+OreSpawn:HammerheadSpawnBlock, Hammerhead Fossil
+OreSpawn:RubberDuckySpawnBlock, Rubber Ducky Fossil
+OreSpawn:CriminalSpawnBlock, Criminal Fossil
+OreSpawn:BrutalflySpawnBlock, Brutal Fly Fossil
+OreSpawn:NastysaurusSpawnBlock, Nastysaurus Fossil
+OreSpawn:PointysaurusSpawnBlock, Pointsaurus Fossil
+OreSpawn:CricketSpawnBlock, Cricket Fossil
+OreSpawn:FrogSpawnBlock, Frog Fossil
+OreSpawn:SpiderDriverSpawnBlock, Spider Driver Fossil
+OreSpawn:CrabSpawnBlock, Crab Fossil
 runicdungeons:tile.runicBrick:0, Dungeon Bricks (Unbreakable)
 runicdungeons:tile.runicBrick:1, Mossy Dungeon Bricks (Unbreakable)
 runicdungeons:tile.runicBrick:2, Cracked Dungeon Bricks (Unbreakable)
@@ -9987,6 +10756,7 @@ kitchen:oven, Forno
 kitchen:plate, Plato
 kitchen:kitchen_cabinet, Armário de Cozinha
 kitchen:frying_pan, Frigideira
+tuborapido:blocoTuboUniversal, Tubo Universal
 WarpTheory:blockVanish, Unnamed Block, report to mod author.
 WitchingGadgets:WG_WallMirror, Mirror on the Wall
 WitchingGadgets:WG_VoidWalkway, Void Walkway
@@ -11466,6 +12236,448 @@ appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Grimstone
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Grimstone
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Grimstone
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Grimstone
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - White Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Orange Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Magenta Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Yellow Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lime Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pink Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Light Gray Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cyan Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Purple Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Blue Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brown Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Green Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Black Terracotta
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Hex Plating
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Hex Plating
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Hex Plating
@@ -11550,6 +12762,7 @@ appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Block of Iron
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Block of Iron
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Block of Iron
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Block of Iron
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Iron Block
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Iron Block
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Iron Block
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Iron Block
@@ -11902,6 +13115,12 @@ appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Transparent Technical 
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Transparent Technical Block
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Industrial Technical Block
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Industrial Technical Block
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Technical Block
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Technical Block
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Technical Block
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Technical Block
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Technical Block
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Technical Block
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Technical Block
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Technical Block
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Technical Block
@@ -12187,6 +13406,22 @@ appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Froglight
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Froglight
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Froglight
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Froglight
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lantern
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lantern
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lantern
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lantern
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lantern
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lantern
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Sheetmetal
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Sheetmetal
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Placeholder
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Placeholder
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Placeholder
@@ -13163,6 +14398,135 @@ appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Foxfire Bookshelf
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Crimson Crafting Table
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Warped Crafting Table
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Foxfire Crafting Table
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Elevador
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Salt Ore
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - RTP Block
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Titanium Block
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Uranium Block
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Ruby Ore
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Amethyst Ore
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Sky Tree Log
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Ender pearl Block
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Eye of Ender Block
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.orespider.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.orebat.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.orecow.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.orepig.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.oresquid.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.orechicken.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.orecreeper.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.oreskeleton.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.orezombie.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.oreslime.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Ghast Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.orezombiepigman.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.oreenderman.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.orecavespider.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.oresilverfish.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.oremagmacube.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.orewitch.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.oresheep.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.orewolf.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.oremooshroom.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Wither Boss Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Girlfriend Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Boyfriend Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Red Cow Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Crystal Cow Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Villager Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gold Cow Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Enchanted Cow Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Mothra Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Alosaurus Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cryolophosaurus Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Camarasaurus Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Velocity Raptor Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Hydrolisc Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Basilisc Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Dragon Fly Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Emperor Scorpion Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Scorpion Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cave Fisher Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Spyro Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Baryonyx Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gammametroid Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cockateil Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Kyuubi Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Alien Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.oreirongolem.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.oresnowgolem.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Ender Dragon Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.oreocelot.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Wither Skeleton Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - tile.oreblaze.name
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Attack Squid Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Water Dragon Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cephadrome Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Kraken Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lizard Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Dragon Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Bee Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Horse Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Trooper Bug Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Spit Bug Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Stink Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Ostrich Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Gazelle Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Chipmunk Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Creepinghorror Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Terribleterror Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cliffracer Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Triffid Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Nightmare Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Lurkingterror Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Zilla Fossil Part I
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Zilla Fossil Part II
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - King Fossil Part I
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - King Fossil Part II
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Queen Fossil Part I
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Queen Fossil Part II
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Worm Small Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Worm Medium Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Large Worm Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cassowary Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cloudshark Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Goldfish Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Leaf Monster Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - T-Shirt Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Ender Knight Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Ender Reaper Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Beaver Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Urchin Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Flounder Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Skate Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Rotator Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Peacock Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Fairy Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Dungeon Beast Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Vortex Eye Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Rat Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Whale Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Irukandji Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - TRex Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Hercules Beetle Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Mantis Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Stinky Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Easter Bunny Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Caterkiller Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Molenoid Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Sea Monster Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Sea Viper Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Leon Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Hammerhead Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Rubber Ducky Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Criminal Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Brutal Fly Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Nastysaurus Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Pointsaurus Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cricket Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Frog Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Spider Driver Fossil
+appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Crab Fossil
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Dungeon Bricks (Unbreakable)
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Mossy Dungeon Bricks (Unbreakable)
 appliedenergistics2:item.ItemFacade:0, Fachada de Cabos - Cracked Dungeon Bricks (Unbreakable)
@@ -18872,7 +20236,6 @@ EnderIO:itemPowderIngot:4, Pó de Estanho
 EnderIO:itemPowderIngot:6, Base de Enderium
 EnderIO:itemPowderIngot:7, Obsidian Powder
 EnderIO:itemPowderIngot:8, Flour
-EnderIO:bucketXpjuice, Balde de XP
 EnderIO:bucketNutrient_distillation, Balde de Destilado de Nutrientes
 EnderIO:bucketHootch, Balde de Aguardente
 EnderIO:bucketRocket_fuel, Balde de Combustível para Foguetes
@@ -22704,6 +24067,618 @@ netherlicious:EfrinePickaxe, Efrine Pickaxe
 netherlicious:EfrineAxe, Efrine Axe
 netherlicious:EfrineHoe, Efrine Hoe
 netherlicious:EfrineSword, Efrine Sword
+OpenBlocks:hangglider, Planador
+OpenBlocks:generic:0, Asa do planador
+OpenBlocks:generic:1, Holofote
+OpenBlocks:generic:2, Motor do guindaste
+OpenBlocks:generic:3, Imã do guindaste
+OpenBlocks:generic:5, Linha
+OpenBlocks:generic:6, Map Controller Module
+OpenBlocks:generic:7, Map Memory Module
+OpenBlocks:generic:9, Assistant's base
+OpenBlocks:generic:10, Unprepared Stencil
+OpenBlocks:generic:11, Sketching Pencil
+OpenBlocks:luggage, Bagagem
+OpenBlocks:sonicglasses, Óculos sônicos
+OpenBlocks:pencilGlasses:0, Óculos de lápis
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:crayonGlasses:0, Óculos de giz de cera
+OpenBlocks:technicolorGlasses:0, Incríveis óculos technicolor
+OpenBlocks:seriousGlasses:0, Óculos Fodões
+OpenBlocks:craneControl, Controle do guindaste
+OpenBlocks:craneBackpack, Mochila de guindaste
+OpenBlocks:slimalyzer, Gosmalizador
+OpenBlocks:filledbucket:0, Balde de experiência
+OpenBlocks:sleepingBag, Saco de Dormir
+OpenBlocks:paintBrush, Paint Brush
+OpenBlocks:stencil:0, Stencil
+OpenBlocks:stencil:1, Stencil
+OpenBlocks:stencil:2, Stencil
+OpenBlocks:stencil:3, Stencil
+OpenBlocks:stencil:4, Stencil
+OpenBlocks:stencil:5, Stencil
+OpenBlocks:stencil:6, Stencil
+OpenBlocks:stencil:7, Stencil
+OpenBlocks:stencil:8, Stencil
+OpenBlocks:stencil:9, Stencil
+OpenBlocks:stencil:10, Stencil
+OpenBlocks:stencil:11, Stencil
+OpenBlocks:stencil:12, Stencil
+OpenBlocks:stencil:13, Stencil
+OpenBlocks:stencil:14, Stencil
+OpenBlocks:squeegee:0, Squeegee
+OpenBlocks:emptyMap, Empty Map
+OpenBlocks:cartographer:0, Cartographer
+OpenBlocks:tastyClay, Tasty Clay
+OpenBlocks:goldenEye, Golden eye
+OpenBlocks:genericUnstackable:0, Pointer
+OpenBlocks:cursor, Cursor
+OpenBlocks:infoBook, World Domination with OpenBlocks
+OpenBlocks:devnull, /dev/null
+OpenBlocks:spongeonastick, Sponge
+OpenBlocks:pedometer, Pedometer
+OpenBlocks:epicEraser, Epic Eraser
+OpenBlocks:wrench, Big Metal Bar
+OreSpawn:matter, §dUU-Matter
+OreSpawn:apples:0, Crystal Apple
+OreSpawn:apples:1, §eUranium Apple
+OreSpawn:apples:2, §bTitanium Apple
+OreSpawn:apples:3, §9Ultimate Apple
+OreSpawn:apples:4, §dMGZ Apple
+OreSpawn:box:0, §5Box Zilla
+OreSpawn:box:1, §cBox Queen
+OreSpawn:box:2, §bBox King
+OreSpawn:key_fragment, Key Fragment
+OreSpawn:key, Dungeon Key
+OreSpawn:bee_sting, Bee Sting
+OreSpawn:leaf, Leaf
+OreSpawn:PizzaItem, Pizza Block
+OreSpawn:DuctTapeItem, Ducttape Block
+OreSpawn:Shoes:0, Red Heels
+OreSpawn:Shoes:1, Black Heels
+OreSpawn:Shoes:2, Slippers
+OreSpawn:Shoes:3, Boots
+OreSpawn:Shoes:4, Game Controller
+OreSpawn:Sifter, Sifter
+OreSpawn:NetherLost, Nether Tracker
+OreSpawn:ZooKeeper, Zoo Keeper
+OreSpawn:SpiderRobotKit, Spider Robot Kit
+OreSpawn:AntRobotKit, Ant Robot Kit
+OreSpawn:CreeperLauncher, Creeper Launcher
+OreSpawn:RayGun, Ray Gun
+OreSpawn:ThunderStaff, Thunder Staff
+OreSpawn:ZooCage:0, Instant Zoo I
+OreSpawn:ZooCage:1, Instant Zoo II
+OreSpawn:ZooCage:2, Instant Zoo III
+OreSpawn:ZooCage:3, Instant Zoo IV
+OreSpawn:ZooCage:4, Instant Zoo V
+OreSpawn:MinersDream, Miners Dream
+OreSpawn:InstantShelter, Instant Shelter
+OreSpawn:InstantGarden, Instant Garden
+OreSpawn:RandomDungeon, Random Dungeon
+OreSpawn:MagicApple, Magic Apple
+OreSpawn:Fish:0, Fire Fish
+OreSpawn:Fish:1, Sun Fish
+OreSpawn:Fish:2, Spark Fish
+OreSpawn:Fish:3, Green Fish
+OreSpawn:Fish:4, Blue Fish
+OreSpawn:Fish:5, Ping Fish
+OreSpawn:Fish:6, Rock Fish
+OreSpawn:Fish:7, Wood Fish
+OreSpawn:Fish:8, Grey Fish
+OreSpawn:UltimateBow, Ultimate Bow
+OreSpawn:SkateBow, Skate Bow
+OreSpawn:honeycomb, Honeycomb
+OreSpawn:honey, Honey
+OreSpawn:sea_monster_meat, Raw Sea Monster Meat
+OreSpawn:sea_monster_cooked_meat, Cooked Sea Monster Meat
+OreSpawn:waterdragon_meat, Raw Water Dragon Meat
+OreSpawn:waterdragon_cooked_meat, Cooked Water Dragon Meat
+OreSpawn:sea_viper_meat, Raw Sea Viper Meat
+OreSpawn:sea_viper_cooked_meat, Cooked Sea Viper Meat
+OreSpawn:stardust, Star Dust
+OreSpawn:starfragment, Star Fragment
+OreSpawn:royal_wing, §eRoyal Wings
+OreSpawn:bertha_handle, Big Bertha Handle
+OreSpawn:bertha_guard, Big Bertha Guard
+OreSpawn:royal_fragment, Royal Fragment
+OreSpawn:royal_plate, Royal Plate
+OreSpawn:trophy:0, King Trophy
+OreSpawn:trophy:1, Queen Trophy
+OreSpawn:trophy:2, Zilla Trophy
+OreSpawn:zilla_scale, Mobzilla Scale
+OreSpawn:zilla_scale_plate, Zilla Scale Plate
+OreSpawn:zilla_heart, Zilla Heart
+OreSpawn:queen_scale, Queen Scale
+OreSpawn:queen_scale_plate, Queen Scale Plate
+OreSpawn:queen_heart, Queen Heart
+OreSpawn:king_scale, King Scale
+OreSpawn:king_scale_plate, King Scale Plate
+OreSpawn:king_heart, King Heart
+OreSpawn:PeacockFeatherHelmet, Peacock Helmet
+OreSpawn:PeacockFeatherBody, Peacock Chestplate
+OreSpawn:PeacockFeatherLegs, Peacock Leggings
+OreSpawn:PeacockFeatherBoots, Peacock Boots
+OreSpawn:LavaEelHelmet, Lavaeel Helmet
+OreSpawn:LavaEelBody, Lavaeel Chestplate
+OreSpawn:LavaEelLegs, Lavaeel Leggings
+OreSpawn:LavaEelBoots, Lavaeel Boots
+OreSpawn:MothScaleHelmet, Moth Helmet
+OreSpawn:MothScaleBody, Moth Chestplate
+OreSpawn:MothScaleLegs, Moth Leggings
+OreSpawn:MothScaleBoots, Moth Boots
+OreSpawn:LapisHelmet, Lapis Helmet
+OreSpawn:LapisBody, Lapis Chestplate
+OreSpawn:LapisLegs, Lapis Leggings
+OreSpawn:LapisBoots, Lapis Boots
+OreSpawn:CrystalPinkHelmet, Tourmaline Helmet
+OreSpawn:CrystalPinkBody, Tourmaline Chestplate
+OreSpawn:CrystalPinkLegs, Tourmaline Leggings
+OreSpawn:CrystalPinkBoots, Tourmaline Boots
+OreSpawn:CrystalPinkSword, Tourmaline Sword
+OreSpawn:CrystalPinkPickaxe, Tourmaline Pickaxe
+OreSpawn:CrystalPinkShovel, Tourmaline Shovel
+OreSpawn:CrystalPinkHoe, Tourmaline Hoe
+OreSpawn:CrystalPinkAxe, Tourmaline Axe
+OreSpawn:EmeraldHelmet, Emerald Helmet
+OreSpawn:EmeraldBody, Emerald Chestplate
+OreSpawn:EmeraldLegs, Emerald Leggings
+OreSpawn:EmeraldBoots, Emerald Boots
+OreSpawn:EmeraldSword, Emerald Sword
+OreSpawn:EmeraldPickaxe, Emerald Pickaxe
+OreSpawn:EmeraldShovel, Emerald Shovel
+OreSpawn:EmeraldHoe, Emerald Hoe
+OreSpawn:EmeraldAxe, Emerald Axe
+OreSpawn:AmethystHelmet, Amethyst Helmet
+OreSpawn:AmethystBody, Amethyst Chestplate
+OreSpawn:AmethystLegs, Amethyst Leggings
+OreSpawn:AmethystBoots, Amethyst Boots
+OreSpawn:AmethystSword, Amethyst Sword
+OreSpawn:AmethystPickaxe, Amethyst Pickaxe
+OreSpawn:AmethystShovel, Amethyst Shovel
+OreSpawn:AmethystHoe, Amethyst Hoe
+OreSpawn:AmethystAxe, Amethyst Axe
+OreSpawn:TigersEyeHelmet, Tigerseye Helmet
+OreSpawn:TigersEyeBody, Tigerseye Chestplate
+OreSpawn:TigersEyeLegs, Tigerseye Leggings
+OreSpawn:TigersEyeBoots, Tigerseye Boots
+OreSpawn:TigersEyeSword, Tigerseye Sword
+OreSpawn:TigersEyePickaxe, Tigerseye Pickaxe
+OreSpawn:TigersEyeShovel, Tigerseye Shovel
+OreSpawn:TigersEyeHoe, Tigerseye Hoe
+OreSpawn:TigersEyeAxe, Tigerseye Axe
+OreSpawn:RubyHelmet, Ruby Helmet
+OreSpawn:RubyBody, Ruby Chestplate
+OreSpawn:RubyLegs, Ruby Leggings
+OreSpawn:RubyBoots, Ruby Boots
+OreSpawn:RubySword, Ruby Sword
+OreSpawn:RubyPickaxe, Ruby Pickaxe
+OreSpawn:RubyShovel, Ruby Shovel
+OreSpawn:RubyHoe, Ruby Hoe
+OreSpawn:RubyAxe, Ruby Axe
+OreSpawn:ExperienceHelmet, Experience Helmet
+OreSpawn:ExperienceBody, Experience Chestplate
+OreSpawn:ExperienceLegs, Experience Leggings
+OreSpawn:ExperienceBoots, Experience Boots
+OreSpawn:ExperienceSword, Experience Sword
+OreSpawn:ultimate_helmet, Ultimate Helmet
+OreSpawn:ultimate_body, Ultimate Chestplate
+OreSpawn:ultimate_legs, Ultimate Leggings
+OreSpawn:ultimate_boots, Ultimate Boots
+OreSpawn:ultimate_sword, Ultimate Sword
+OreSpawn:ultimate_pickaxe, Ultimate Pickaxe
+OreSpawn:ultimate_shovel, Ultimate Shovel
+OreSpawn:ultimate_hoe, Ultimate Hoe
+OreSpawn:ultimate_axe, Ultimate Axe
+OreSpawn:royal_helmet, Royal Helmet
+OreSpawn:royal_body, Royal Chestplate
+OreSpawn:royal_legs, Royal Leggings
+OreSpawn:royal_boots, Royal Boots
+OreSpawn:royal_sword, Royal Sword
+OreSpawn:royal_pickaxe, Royal Pickaxe
+OreSpawn:royal_shovel, Royal Shovel
+OreSpawn:royal_hoe, Royal Hoe
+OreSpawn:royal_axe, Royal Axe
+OreSpawn:zilla_helmet, Zilla Helmet
+OreSpawn:zilla_body, Zilla Chestplate
+OreSpawn:zilla_legs, Zilla Leggings
+OreSpawn:zilla_boots, Zilla Boots
+OreSpawn:queen_helmet, Queen Helmet
+OreSpawn:queen_body, Queen Chestplate
+OreSpawn:queen_legs, Queen Leggings
+OreSpawn:queen_boots, Queen Boots
+OreSpawn:queen_chest_wings, §dQueen Flying Chestplate
+OreSpawn:queen_wing, §cQueen Wings
+OreSpawn:king_helmet, King Helmet
+OreSpawn:king_chest, King Chestplate
+OreSpawn:king_legs, King Leggings
+OreSpawn:king_boots, King Boots
+OreSpawn:king_chest_wings, §dKing Flying Chestplate
+OreSpawn:king_wing, §bKing Wings
+OreSpawn:mgz_helmet, §d§lMGZ Helmet
+OreSpawn:mgz_chest, §d§lMGZ Chestplate
+OreSpawn:mgz_legs, §d§lMGZ Leggings
+OreSpawn:mgz_boots, §d§lMGZ Boots
+OreSpawn:ring:0, Ring
+OreSpawn:ring:1, §eRoyal Ring
+OreSpawn:ring:2, §5Zilla Ring
+OreSpawn:ring:3, §cQueen Ring
+OreSpawn:ring:4, §bKing Ring
+OreSpawn:ring:5, §d§lMGZ Ring
+OreSpawn:mgz_sword, §d§lMGZ Sword
+OreSpawn:mgz_tool, §d§lMGZ Tool
+OreSpawn:mgz_hammer, §d§lMGZ Hammer
+OreSpawn:king_sword, §b§lThe King Sword
+OreSpawn:king_bow, §b§lThe King Bow
+OreSpawn:queen_sword, §c§lThe Queen Sword
+OreSpawn:queen_bow, §c§lThe Queen Bow
+OreSpawn:zilla_sword, §5§lZilla Sword
+OreSpawn:zilla_bow, §5§lZilla Bow
+OreSpawn:blades:0, Big Bertha Blade
+OreSpawn:blades:1, Zilla Blade
+OreSpawn:blades:2, Queen Blade
+OreSpawn:blades:3, King Blade
+OreSpawn:cable:0, Big Bertha Cable
+OreSpawn:cable:1, Zilla Cable
+OreSpawn:cable:2, Queen Cable
+OreSpawn:cable:3, King Cable
+OreSpawn:rice, Rice
+OreSpawn:bean, Bean
+OreSpawn:lettuce, Alface
+OreSpawn:strawberry, Morango
+OreSpawn:Elevator, Elevator
+OreSpawn:IngotUranium, Uranium
+OreSpawn:CrystalPinkIngot, Tourmaline
+OreSpawn:TigersEyeIngot, Tigerseye
+OreSpawn:IngotTitanium, Titanium
+OreSpawn:ingotultimate, Ultimate Ingot
+OreSpawn:NightmareSword, Nightmare Sword
+OreSpawn:Bertha, Big Bertha Sword
+OreSpawn:Slice, Slice Sword
+OreSpawn:BattleAxe, Battle Axe
+OreSpawn:QueenBattleAxe, Queen Battle Axe
+OreSpawn:Chainsaw, Chainsaw
+OreSpawn:RoseSword, Rose Sword
+OreSpawn:PoisonSword, Poison Sword
+OreSpawn:RatSword, Rat Sword
+OreSpawn:FairySword, Fairy Sword
+OreSpawn:MantisClaw, Mantis Claw
+OreSpawn:BigHammer, Big Hammer
+OreSpawn:CrystalWoodSword, Crystal Sword
+OreSpawn:CrystalWoodPickaxe, Crystal Pickaxe
+OreSpawn:CrystalWoodShovel, Crystal Shovel
+OreSpawn:CrystalWoodHoe, Crystal Hoe
+OreSpawn:CrystalWoodAxe, Crystal Axe
+OreSpawn:CrystalStoneSword, Crystal Sword
+OreSpawn:CrystalStonePickaxe, Crystal Pickaxe
+OreSpawn:CrystalStoneShovel, Crystal Shovel
+OreSpawn:CrystalStoneHoe, Crystal Hoe
+OreSpawn:CrystalStoneAxe, Crystal Axe
+OreSpawn:UltimateFishingRod, Fishingrod Ultimate
+OreSpawn:LavaEel, Lavaeel
+OreSpawn:MothScale, Moth Scale
+OreSpawn:NightmareScale, Nightmare Scale
+OreSpawn:EmperorScorpionScale, Emperor Scorpion Scale
+OreSpawn:BasiliskScale, Basilisk Scale
+OreSpawn:WaterDragonScale, Waterdragon Scale
+OreSpawn:PeacockFeather, Peacock Father
+OreSpawn:JumpyBugScale, Jumpy Bug Scale
+OreSpawn:KrakenTooth, Kraken Tooth
+OreSpawn:GreenGoo, Green Goo
+OreSpawn:CrystalSticks, Crystal Sticks
+OreSpawn:SunspotUrchin, Sunspot Urchin
+OreSpawn:WaterBall, Water Ball
+OreSpawn:LaserBall, Laser Ball
+OreSpawn:IceBall, Iceball
+OreSpawn:SmallRock, Rock Small
+OreSpawn:Rock, Rock
+OreSpawn:RedRock, Rock Red
+OreSpawn:CrystalRedRock, Rock Crystal Red
+OreSpawn:CrystalGreenRock, Rock Crystal Green
+OreSpawn:CrystalBlueRock, Rock Crystal Blue
+OreSpawn:CrystalTNTRock, Rock Crystal TNT
+OreSpawn:GreenRock, Rock Green
+OreSpawn:BlueRock, Rock Blue
+OreSpawn:PurpleRock, Rock Purple
+OreSpawn:SpikeyRock, Rock Spikey
+OreSpawn:TNTRock, Rock TNT
+OreSpawn:Acid, Acid
+OreSpawn:Irukandji, Dead Irukandji
+OreSpawn:IrukandjiArrow, Irukandji Arrow
+OreSpawn:SquidZooka, Squid Zooka
+OreSpawn:Salt, Salt
+OreSpawn:Popcorn, Popcorn
+OreSpawn:ButteredPopcorn, Popcorn Buttered
+OreSpawn:ButteredSaltedPopcorn, Popcorn Buttered Salted
+OreSpawn:PopcornBag, Popcorn Bag
+OreSpawn:Butter, Manteiga
+OreSpawn:CornDog, Corndog Cooked
+OreSpawn:Cheese, Queijo
+OreSpawn:RawCornDog, Corndog Raw
+OreSpawn:Peacock, Cooked Peacock
+OreSpawn:RawPeacock, Raw Peacock
+OreSpawn:Ruby, Rubi
+OreSpawn:Amethyst, Amethyst
+OreSpawn:Wrench, Wrench
+OreSpawn:RawBacon, Bacon
+OreSpawn:Bacon:0, Cooked Bacon
+OreSpawn:RawCrabMeat, Crab Meat
+OreSpawn:CrabMeat:0, Cooked Crab Meat
+OreSpawn:ButterCandy:0, Butter Candy
+OreSpawn:UraniumNugget, Uranium Nugget
+OreSpawn:TitaniumNugget, Titanium Nugget
+OreSpawn:Salad, Salad
+OreSpawn:BLT, BLT Sandwich
+OreSpawn:CrabbyPatty, Crabby Patty
+OreSpawn:MolenoidNose, Molenoid Noise
+OreSpawn:SeaMonsterScale, Sea Monster Scale
+OreSpawn:WormTooth, Worm Tooth
+OreSpawn:TRexTooth, TRex Tooth
+OreSpawn:CaterKillerJaw, Caterkiller Jaw
+OreSpawn:SeaViperTongue, Sea Viper Tongue
+OreSpawn:VortexEye, Vortex Eye
+OreSpawn:Love:0, Heart
+OreSpawn:Cherry, Cherries
+OreSpawn:Peach, Peach
+OreSpawn:Radish, Radish
+OreSpawn:CornCob, Milho
+OreSpawn:Quinoa, Quinoa
+OreSpawn:Tomato, Tomato
+OreSpawn:ButterflySeed, Butterfly Seed
+OreSpawn:MothSeed, Moth Seed
+OreSpawn:MosquitoSeed, Mosquito Seed
+OreSpawn:FireflySeed, Firefly Seed
+OreSpawn:AppleSeed, Apple Tree Seed
+OreSpawn:CherrySeed, Cherry Tree Seed
+OreSpawn:PeachSeed, Peach Tree Seed
+OreSpawn:StepUp, Step Up
+OreSpawn:StepDown, Step Down
+OreSpawn:StepAccross, Step Accross
+OreSpawn:ExperienceCatcher, Experience Catcher
+OreSpawn:DeadStinkBug, Dead Stink Bug
+OreSpawn:ExperienceTreeSeed, Experience Tree Seed
+OreSpawn:OreSpawn_WitherSkeletonEgg, Wither Skeleton Spawner
+OreSpawn:OreSpawn_EnderDragonEgg, Ender Dragon Spawner
+OreSpawn:OreSpawn_SnowGolemEgg, Snow Golem Spawner
+OreSpawn:OreSpawn_IronGolemEgg, Iron Golem Spawner
+OreSpawn:OreSpawn_WitherBossEgg, Wither Boss Spawner
+OreSpawn:OreSpawn_GirlfriendEgg, Girlfriend Spawner
+OreSpawn:OreSpawn_BoyfriendEgg, Boyfriend Spawner
+OreSpawn:OreSpawn_TheKingEgg, The King Spawner
+OreSpawn:OreSpawn_TheQueenEgg, The Queen Spawner
+OreSpawn:OreSpawn_ThePrinceEgg, The Prince Spawner
+OreSpawn:OreSpawn_RedCowEgg, Red Cow Spawner
+OreSpawn:OreSpawn_CrystalCowEgg, Crystal Cow Spawner
+OreSpawn:OreSpawn_GoldCowEgg, Gold Cow Spawner
+OreSpawn:OreSpawn_EnchantedCowEgg, Enchanted Cow Spawner
+OreSpawn:OreSpawn_MOTHRAEgg, Mothra Spawner
+OreSpawn:OreSpawn_AloEgg, Alosaurus Spawner
+OreSpawn:OreSpawn_CryoEgg, Cryolophosaurus Spawner
+OreSpawn:OreSpawn_CamaEgg, Camarasaurus Spawner
+OreSpawn:OreSpawn_VeloEgg, Velocity Raptor Spawner
+OreSpawn:OreSpawn_HydroEgg, Hydrolisc Spawner
+OreSpawn:OreSpawn_BasilEgg, Basilisc Spawner
+OreSpawn:OreSpawn_DragonflyEgg, Dragonfly Spawner
+OreSpawn:OreSpawn_EmperorScorpionEgg, Emperor Scorpion Spawner
+OreSpawn:OreSpawn_ScorpionEgg, Scorpion Spawner
+OreSpawn:OreSpawn_CaveFisherEgg, Cave Fisher Spawner
+OreSpawn:OreSpawn_SpyroEgg, Spyro Spawner
+OreSpawn:OreSpawn_BaryonyxEgg, Baryonyx Spawner
+OreSpawn:OreSpawn_GammaMetroidEgg, Gammametroid Spawner
+OreSpawn:OreSpawn_CockateilEgg, Cockateil Spawner
+OreSpawn:OreSpawn_KyuubiEgg, Kyuubi Spawner
+OreSpawn:OreSpawn_AlienEgg, Alien Spawner
+OreSpawn:OreSpawn_AttackSquidEgg, Attack Squid Spawner
+OreSpawn:OreSpawn_WaterDragonEgg, Water Dragon Spawner
+OreSpawn:OreSpawn_CephadromeEgg, Cephadrome Spawner
+OreSpawn:OreSpawn_KrakenEgg, Kraken Spawner
+OreSpawn:OreSpawn_LizardEgg, Lizard Spawner
+OreSpawn:OreSpawn_DragonEgg, Dragon Spawner
+OreSpawn:OreSpawn_BeeEgg, Bee Spawner
+OreSpawn:OreSpawn_TrooperBugEgg, Trooper Bug Spawner
+OreSpawn:OreSpawn_SpitBugEgg, Spit Bug Spawner
+OreSpawn:OreSpawn_StinkBugEgg, Stink Spawner
+OreSpawn:OreSpawn_OstrichEgg, Ostrich Spawner
+OreSpawn:OreSpawn_GazelleEgg, Gazelle Spawner
+OreSpawn:OreSpawn_ChipmunkEgg, Chipmunk Spawner
+OreSpawn:OreSpawn_CreepingHorrorEgg, Creepinghorror Spawner
+OreSpawn:OreSpawn_TerribleTerrorEgg, Terribleterror Spawner
+OreSpawn:OreSpawn_CliffRacerEgg, Cliffracer Spawner
+OreSpawn:OreSpawn_TriffidEgg, Triffid Spawner
+OreSpawn:OreSpawn_PitchBlackEgg, Nightmare Spawner
+OreSpawn:OreSpawn_LurkingTerrorEgg, Lurkingterror Spawner
+OreSpawn:OreSpawn_GodzillaEgg, MobZilla Spawner
+OreSpawn:OreSpawn_SmallWormEgg, Worm Small Spawner
+OreSpawn:OreSpawn_MediumWormEgg, Medium Worm Spawner
+OreSpawn:OreSpawn_LargeWormEgg, Large Worm Spawner
+OreSpawn:OreSpawn_CassowaryEgg, Cassowary Spawner
+OreSpawn:OreSpawn_CloudSharkEgg, Cloudshark Spawner
+OreSpawn:OreSpawn_GoldFishEgg, Goldfish Spawner
+OreSpawn:OreSpawn_LeafMonsterEgg, Leaf Monster Spawner
+OreSpawn:OreSpawn_TshirtEgg, T-Shirt Spawner
+OreSpawn:OreSpawn_EnderKnightEgg, Ender Knight Spawner
+OreSpawn:OreSpawn_EnderReaperEgg, Ender Reaper Spawner
+OreSpawn:OreSpawn_BeaverEgg, Beaver Spawner
+OreSpawn:OreSpawn_DungeonBeastEgg, Dungeon Beast Spawner
+OreSpawn:OreSpawn_RotatorEgg, Rotator Spawner
+OreSpawn:OreSpawn_VortexEgg, Vortex Eye Spawner
+OreSpawn:OreSpawn_PeacockEgg, Peacock Spawner
+OreSpawn:OreSpawn_FairyEgg, Fairy Spawner
+OreSpawn:OreSpawn_RatEgg, Rat Spawner
+OreSpawn:OreSpawn_FlounderEgg, Flounder Spawner
+OreSpawn:OreSpawn_WhaleEgg, Whale Spawner
+OreSpawn:OreSpawn_IrukandjiEgg, Irukandji Spawner
+OreSpawn:OreSpawn_SkateEgg, Skate Spawner
+OreSpawn:OreSpawn_UrchinEgg, Urchin Spawner
+OreSpawn:OreSpawn_Robot1Egg, Robot I Spawner
+OreSpawn:OreSpawn_Robot2Egg, Robot II Spawner
+OreSpawn:OreSpawn_Robot3Egg, Robot III Spawner
+OreSpawn:OreSpawn_Robot4Egg, Robot IV Spawner
+OreSpawn:OreSpawn_GhostEgg, Ghost Spawner
+OreSpawn:OreSpawn_GhostSkellyEgg, Ghost Skelly Spawner
+OreSpawn:OreSpawn_BrownAntEgg, Brown Ant Spawner
+OreSpawn:OreSpawn_RedAntEgg, Red Ant Spawner
+OreSpawn:OreSpawn_RainbowAntEgg, Rainbow Ant Spawner
+OreSpawn:OreSpawn_UnstableAntEgg, Unstable Ant Spawner
+OreSpawn:OreSpawn_TermiteEgg, Termite Spawner
+OreSpawn:OreSpawn_ButterflyEgg, Butterfly Spawner
+OreSpawn:OreSpawn_MothEgg, Moth Spawner
+OreSpawn:OreSpawn_MosquitoEgg, Mosquito Spawner
+OreSpawn:OreSpawn_FireflyEgg, Firefly Spawner
+OreSpawn:OreSpawn_TRexEgg, TRex Spawner
+OreSpawn:OreSpawn_HerculesEgg, Hercules Beetle Spawner
+OreSpawn:OreSpawn_MantisEgg, Mantis Spawner
+OreSpawn:OreSpawn_StinkyEgg, Stinky Spawner
+OreSpawn:OreSpawn_Robot5Egg, Robot V Spawner
+OreSpawn:OreSpawn_CoinEgg, Coin Spawner
+OreSpawn:OreSpawn_EasterBunnyEgg, Easter Bunny Spawner
+OreSpawn:OreSpawn_MolenoidEgg, Molenoid Spawner
+OreSpawn:OreSpawn_SeaMonsterEgg, Sea Monster Spawner
+OreSpawn:OreSpawn_SeaViperEgg, Sea Viper Spawner
+OreSpawn:OreSpawn_CaterKillerEgg, Caterkiller Spawner
+OreSpawn:OreSpawn_RubberDuckyEgg, Rubber Ducky Spawner
+OreSpawn:OreSpawn_HammerheadEgg, Hammerhead Spawner
+OreSpawn:OreSpawn_LeonEgg, Leon Spawner
+OreSpawn:OreSpawn_CriminalEgg, Criminal Spawner
+OreSpawn:OreSpawn_BrutalflyEgg, Brutalfly Spawner
+OreSpawn:OreSpawn_NastysaurusEgg, Nastysaurus Spawner
+OreSpawn:OreSpawn_PointysaurusEgg, Pointysaurus Spawner
+OreSpawn:OreSpawn_CricketEgg, Cricket Spawner
+OreSpawn:OreSpawn_ThePrincessEgg, The Princess Spawner
+OreSpawn:OreSpawn_FrogEgg, Frog Spawner
+OreSpawn:OreSpawn_JefferyEgg, Robot VI Spawner
+OreSpawn:OreSpawn_AntRobotEgg, Ant Robot Spawner
+OreSpawn:OreSpawn_SpiderRobotEgg, Spider Robot Spawner
+OreSpawn:OreSpawn_SpiderDriverEgg, Spider Driver Spawner
+OreSpawn:OreSpawn_CrabEgg, Crab Spawner
+OreSpawn:CageEmpty, Cage Empty
+OreSpawn:CagedSpider, item.cagespider.name
+OreSpawn:CagedBat, item.cagebat.name
+OreSpawn:CagedCow, item.cagecow.name
+OreSpawn:CagePig, item.cagepig.name
+OreSpawn:CagedSquid, item.cagesquid.name
+OreSpawn:CagedChicken, item.cagechicken.name
+OreSpawn:CagedCreeper, item.cagecreeper.name
+OreSpawn:CagedSkeleton, item.cageskeleton.name
+OreSpawn:CagedZombie, item.cagezombie.name
+OreSpawn:CagedSlime, item.cageslime.name
+OreSpawn:CagedGhast, item.cageghast.name
+OreSpawn:CagedZombiePigman, item.cagezombiepigman.name
+OreSpawn:CagedEnderman, item.cageenderman.name
+OreSpawn:CagedCaveSpider, item.cagecavespider.name
+OreSpawn:CagedSilverfish, item.cagesilverfish.name
+OreSpawn:CagedMagmaCube, item.cagemagmacube.name
+OreSpawn:CagedWitch, item.cagewitch.name
+OreSpawn:CagedSheep, item.cagesheep.name
+OreSpawn:CagedWolf, item.cagewolf.name
+OreSpawn:CagedMooshroom, item.cagemooshroom.name
+OreSpawn:CagedOcelot, item.cageocelot.name
+OreSpawn:CagedBlaze, item.cageblaze.name
+OreSpawn:CagedGirlfriend, item.cagegirlfriend.name
+OreSpawn:CagedBoyfriend, item.cageboyfriend.name
+OreSpawn:CagedWitherSkeleton, item.cagewitherskeleton.name
+OreSpawn:CagedEnderDragon, item.cageenderdragon.name
+OreSpawn:CagedSnowGolem, item.cagesnowgolem.name
+OreSpawn:CagedIronGolem, item.cageirongolem.name
+OreSpawn:CagedWitherBoss, item.cagewitherboss.name
+OreSpawn:CagedRedCow, item.cageredcow.name
+OreSpawn:CagedCrystalCow, item.cagecrystalcow.name
+OreSpawn:CagedVillager, item.cagevillager.name
+OreSpawn:CagedGoldCow, item.cagegoldcow.name
+OreSpawn:CagedEnchantedCow, item.cageenchantedcow.name
+OreSpawn:CagedMOTHRA, item.cageMOTHRA.name
+OreSpawn:CagedAlo, item.cagealosaurus.name
+OreSpawn:CagedCryo, item.cagecryolophosaurus.name
+OreSpawn:CagedCama, item.cagecamarasaurus.name
+OreSpawn:CagedVelo, item.cagevelocityraptor.name
+OreSpawn:CagedHydro, item.cagehydrolisc.name
+OreSpawn:CagedBasil, item.cagebasilisc.name
+OreSpawn:CagedDragonfly, item.cagedragonfly.name
+OreSpawn:CagedEmperorScorpion, item.cageemperorscorpion.name
+OreSpawn:CagedScorpion, item.cagescorpion.name
+OreSpawn:CagedCaveFisher, item.cagecavefisher.name
+OreSpawn:CagedSpyro, item.cagespyro.name
+OreSpawn:CagedBaryonyx, item.cagebaryonyx.name
+OreSpawn:CagedGammaMetroid, item.cagegammametroid.name
+OreSpawn:CagedCockateil, item.cagecockateil.name
+OreSpawn:CagedKyuubi, item.cagekyuubi.name
+OreSpawn:CagedAlien, item.cagealien.name
+OreSpawn:CagedAttackSquid, item.cageattacksquid.name
+OreSpawn:CagedWaterDragon, item.cagewaterdragon.name
+OreSpawn:CagedCephadrome, item.cagecephadrome.name
+OreSpawn:CagedKraken, item.cagekraken.name
+OreSpawn:CagedLizard, item.cagelizard.name
+OreSpawn:CagedDragon, item.cagedragon.name
+OreSpawn:CagedBee, item.cagebee.name
+OreSpawn:CagedHorse, item.cagehorse.name
+OreSpawn:CagedFirefly, item.cagefirefly.name
+OreSpawn:CagedChipmunk, item.cagechipmunk.name
+OreSpawn:CagedGazelle, item.cagegazelle.name
+OreSpawn:CagedOstrich, item.cageostrich.name
+OreSpawn:CagedTrooper, item.cagetrooper.name
+OreSpawn:CagedSpit, item.cagespit.name
+OreSpawn:CagedStink, item.cagestink.name
+OreSpawn:CagedCreepingHorror, item.cagecreepinghorror.name
+OreSpawn:CagedTerribleTerror, item.cageterribleterror.name
+OreSpawn:CagedCliffRacer, item.cagecliffracer.name
+OreSpawn:CagedTriffid, item.cagetriffid.name
+OreSpawn:CagedPitchBlack, item.cagenightmare.name
+OreSpawn:CagedLurkingTerror, item.cagelurkingterror.name
+OreSpawn:CagedSmallWorm, item.cagesmallworm.name
+OreSpawn:CagedMediumWorm, item.cagemediumworm.name
+OreSpawn:CagedLargeWorm, item.cagelargeworm.name
+OreSpawn:CagedCassowary, item.cagecassowary.name
+OreSpawn:CagedCloudShark, item.cagecloudshark.name
+OreSpawn:CagedGoldFish, item.cagegoldfish.name
+OreSpawn:CagedLeafMonster, item.cageleafmonster.name
+OreSpawn:CagedEnderKnight, item.cageenderknight.name
+OreSpawn:CagedEnderReaper, item.cageenderreaper.name
+OreSpawn:CagedBeaver, item.cagebeaver.name
+OreSpawn:CagedUrchin, item.cageurchin.name
+OreSpawn:CagedFlounder, item.cageflounder.name
+OreSpawn:CagedSkate, item.cageskate.name
+OreSpawn:CagedRotator, item.cagerotator.name
+OreSpawn:CagedPeacock, item.cagepeacock.name
+OreSpawn:CagedFairy, item.cagefairy.name
+OreSpawn:CagedDungeonBeast, item.cagedungeonbeast.name
+OreSpawn:CagedVortex, item.cagevortex.name
+OreSpawn:CagedRat, item.cagerat.name
+OreSpawn:CagedWhale, item.cagewhale.name
+OreSpawn:CagedIrukandji, item.cageirukandji.name
+OreSpawn:CagedTRex, item.cagetrex.name
+OreSpawn:CagedHercules, item.cagehercules.name
+OreSpawn:CagedMantis, item.cagemantis.name
+OreSpawn:CagedStinky, item.cagestinky.name
+OreSpawn:CagedEasterBunny, item.cageeasterbunny.name
+OreSpawn:CagedCaterKiller, item.cagecaterkiller.name
+OreSpawn:CagedMolenoid, item.cagemolenoid.name
+OreSpawn:CagedSeaMonster, item.cageseamonster.name
+OreSpawn:CagedSeaViper, item.cageseaviper.name
+OreSpawn:CagedLeon, item.cageleon.name
+OreSpawn:CagedHammerhead, item.cagehammerhead.name
+OreSpawn:CagedRubberDucky, item.cagerubberducky.name
+OreSpawn:CagedCriminal, item.cagecriminal.name
+OreSpawn:CagedBrutalfly, item.cagebrutalfly.name
+OreSpawn:CagedNastysaurus, item.cagenastysaurus.name
+OreSpawn:CagedPointysaurus, item.cagepointysaurus.name
+OreSpawn:CagedCricket, item.cagecricket.name
+OreSpawn:CagedFrog, item.cagefrog.name
+OreSpawn:CagedSpiderDriver, item.cagespiderdriver.name
+OreSpawn:CagedCrab, item.cagecrab.name
 runicdungeons:item.key, Dungeon Key
 runicdungeons:item.magicchalk, Magical Chalk
 runicdungeons:item.magicstaff, Magical Staff
