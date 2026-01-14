@@ -3,7 +3,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.0
 saturation:0.0
-renderDistance:2
+renderDistance:6
 guiScale:2
 particles:0
 bobView:true
@@ -14,7 +14,7 @@ fboEnable:true
 difficulty:0
 fancyGraphics:true
 ao:2
-clouds:false
+clouds:true
 resourcePacks:["High Texture Attemption.zip"]
 lastServer:x.urubuhost.com.br
 lang:pt_BR
@@ -91,25 +91,26 @@ key_Boost Key:0
 key_Mode Switch Key:0
 key_Side Inventory Key:0
 key_Hub Expand Key:0
-key_Change mode key:34
-key_Fly Key:33
-key_Change Streak Key:45
-key_Vertical Key:37
-key_Save move Key:38
 key_key.craftpresence.config_keycode.name:0
 key_key.toggle_focus.desc:0
 key_key.search_connected_inventories.desc:0
+key_key.pick_block.desc:0
+key_key.control_operation.desc:29
 key_key.am2pg.nextLine:184
 key_key.am2pg.prevLine:0
 key_key.betterquesting.quests:0
 key_NPC Inventory:0
 key_key.discordRing:0
+key_openblocks.keybind.vario_switch:0
+key_openblocks.keybind.vario_vol_up:0
+key_openblocks.keybind.vario_vol_down:0
 key_schematica.key.load:181
 key_schematica.key.save:55
 key_schematica.key.control:74
 key_schematica.key.layerInc:0
 key_schematica.key.layerDec:0
-key_key.aether.accessory_menu:0
+key_keys.armourersworkshop.equipmentWardrobe:23
+key_keys.armourersworkshop.undo:0
 key_Baubles Inventory:0
 key_Change Wand Focus:33
 key_Activate Hover Harness:0
@@ -119,13 +120,15 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
-key_ttmisc.toggleArmor:0
-key_keys.armourersworkshop.equipmentWardrobe:23
-key_keys.armourersworkshop.undo:0
+key_waila.keybind.showadvanced:42
 key_key.tarmor:0
 key_key.tgoggles:0
 key_key.tbelt:0
 key_key.tzoom:0
+key_keys.adventureBackpack.openInventory:0
+key_keys.adventureBackpack.toggleActions:0
+key_key.aether.accessory_menu:0
+key_ttmisc.toggleArmor:0
 key_Reload Shaders:0
 key_Toggle Shaders:0
 key_Shaderpack Selection Screen:0
@@ -157,17 +160,18 @@ key_Mapa da Galáxia :50
 key_Abrir Inventário da Nave :0
 key_Alternar modos dos Óculos Sensores:0
 key_Open Powered Vehicle Inventory:0
-key_Hold to use other FC keys:0
-key_Toggle Cull Entities:0
-key_Toggle Cull Tile Entities:0
-key_RV/FR Decrease:0
-key_RV/FR Increase:0
-key_Toggle Scale RD With Size:0
+key_Hold to use other FC keys:46
+key_Toggle Cull Entities:49
+key_Toggle Cull Tile Entities:50
+key_RV/FR Decrease:51
+key_RV/FR Increase:52
+key_Toggle Scale RD With Size:184
 key_Mekanism Alternar Modo de Ferramenta:0
 key_Mekanism Alternar Modo de Armadura:0
 key_Open Matter Scanner GUI:0
 key_Android Ability key:0
 key_Android Switch Ability key:0
+key_openmodslib.key.calc:13
 key_keybinding.jumptoggle:0
 key_keybinding.speedtoggle:0
 key_keybinding.omnitoggle:0
@@ -180,16 +184,17 @@ key_Toggle Spider Climb:0
 key_Toggle Chameleon Skin:0
 key_key.amulet.desc:0
 key_wg.config.activateKey:0
-key_key.fastBlockPlacing.desc:0
+key_WorldEdit Reference:38
 key_key.cofh.empower:0
 key_key.cofh.multimode:0
+key_key.control:0
 key_key.ShapeGroups:46
 key_key.SpellBookNext:45
 key_key.SpellBookPrev:44
 key_key.AuraCustomization:0
 key_key.ToggleManaDisplay:24
 key_key.ActivateAffinityAbility:45
-key_key.control:0
+key_key.fastBlockPlacing.desc:0
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
